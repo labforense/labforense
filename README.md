@@ -1,5 +1,14 @@
-## Hi there 👋
 
+# System Initialized... 🔓
+
+<div align="center">
+  <img src="https://media.giphy.com/media/QueED97PPQG88/giphy.gif" width="100%"/>
+</div>
+
+### 👨‍💻 Sobre mim | Whoami
+
+```bash
+user@labforense:~$ ./about_me.sh
 <!--
 **labforense/labforense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
