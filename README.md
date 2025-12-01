@@ -3,12 +3,15 @@
 
 
 <div align="center">
-  <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/9ea2da90-2527-45ce-a011-3a050bb7d65b" />
+ 
+<img width="1536" height="1024" alt="quintal de casa" src="https://github.com/user-attachments/assets/c59719b9-f3be-49e3-8509-86d3c4e33cde" />
+
 
 </div>
 
 ### 👨‍💻 Sobre mim | Marius
 
+Estudante Tech e Amante do Café
 
 Profissional com 15 anos de experiência no comércio varejista de vinhos (B2C) e formação em Marketing,
  atualmente mergulhando no mundo tech como estudante de Ciências da Computação. Minha paixão é a cibersegurança,
