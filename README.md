@@ -8,9 +8,6 @@
 
 ### 👨‍💻 Sobre mim | Marius
 
-```bash
-user@labforense:~$ ./about_me.sh
-<!--
 
 Profissional com 15 anos de experiência no comércio varejista de vinhos (B2C) e formação em Marketing,
  atualmente mergulhando no mundo tech como estudante de Ciências da Computação. Minha paixão é a cibersegurança,
