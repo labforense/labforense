@@ -1,6 +1,14 @@
 
 # System Initialized... 🔓
 
+<h3 align="center">
+  <span style="color: #2DE1FC">Estudante Tech</span> e 
+  <span style="color: #2DE1FC">Amante do Café</span>
+</h3>
+
+<h3 align="center" style="color: #E6EDF3">
+  Estudante Tech e Amante do Café
+</h3>
 <div align="center">
   <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/9ea2da90-2527-45ce-a011-3a050bb7d65b" />
 
