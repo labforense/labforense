@@ -2,24 +2,15 @@
 # System Initialized... 🔓
 
 <div align="center">
-  <img src="https://media.giphy.com/media/QueED97PPQG88/giphy.gif" width="100%"/>
+  <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/9ea2da90-2527-45ce-a011-3a050bb7d65b" />
+
 </div>
 
-### 👨‍💻 Sobre mim | Whoami
+### 👨‍💻 Sobre mim | Marius
 
 ```bash
 user@labforense:~$ ./about_me.sh
 <!--
 **labforense/labforense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Profissional com 15 anos de experiência no comércio varejista de vinhos (B2C) e formação em Marketing, atualmente mergulhando no mundo tech como estudante de Ciências da Computação. Minha paixão é a cibersegurança, e sou um entusiasta confesso de café. Sempre em busca de novos desafios e crescimento, estou pronto para aplicar minha experiência diversificada e sede por aprendizado em oportunidades inovadoras no setor de tecnologia.
