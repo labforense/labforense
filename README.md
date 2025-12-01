@@ -11,7 +11,9 @@
 
 ### 👨‍💻 Sobre mim | Marius
 
-Estudante Tech e Amante do Café
+<h3 align="center" style="color: #E6EDF3">
+  Estudante Tech e Amante do Café
+</h3>
 
 Profissional com 15 anos de experiência no comércio varejista de vinhos (B2C) e formação em Marketing,
  atualmente mergulhando no mundo tech como estudante de Ciências da Computação. Minha paixão é a cibersegurança,
@@ -19,6 +21,6 @@ Profissional com 15 anos de experiência no comércio varejista de vinhos (B2C) 
 estou pronto para aplicar minha experiência diversificada e sede por aprendizado em oportunidades inovadoras no setor de tecnologia.
 
 ### 🛠️ Tech Stack
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+
+
